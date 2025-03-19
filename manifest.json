@@ -1,0 +1,16 @@
+{
+  "name": "Tic-Tac-Toe",
+  "short_name": "TicTacToe",
+  "description": "Play a fun game of Tic-Tac-Toe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ececec",
+  "theme_color": "#ececec",
+  "icons": [
+    {
+      "src": "icons/tic-tac-toe-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

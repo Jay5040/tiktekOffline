@@ -2,7 +2,7 @@
   "name": "Tic-Tac-Toe",
   "short_name": "TicTacToe",
   "description": "Play a fun game of Tic-Tac-Toe",
-  "start_url": "/",
+  "start_url": "/tiktekOffline/index.html",
   "display": "standalone",
   "background_color": "#ececec",
   "theme_color": "#ececec",
